@@ -1,4 +1,4 @@
 # Lets_play
-training
+training start
 # Game_over
 training DevopsAcademy

@@ -1,6 +1,7 @@
-#Plava lodka po jazere
+#Plava lodka po rozburenom jazere!
 ## Sedzi v nej rybar a lape ryby.@@!
 
+<<<<<<< HEAD
 ## chyta zavinace? bo vidim tri  @
 
 @ 
@@ -12,3 +13,8 @@
 ## Zatel neulapil nic. Moze sebe dac prestavku.
 
 ## Tha naj se da tresku, ked nic nelapil
+=======
+## Zatel neulapil nic. Moze sebe dac prestavku.
+
+### Tha to dluha stuka se ulapila na udicu! Taha lodku do okola Jazera.
+>>>>>>> fb4384d56dedf9519a266211065c85032aa49596

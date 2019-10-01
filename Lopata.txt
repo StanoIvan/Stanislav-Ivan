@@ -11,5 +11,7 @@ Raz i lopatu zautomatizuju a budze trea DevOps inzimira...
 do ruky a robic.
 
 Bo dakto robi jak se patri a dakto patri jak se robi!!!
+
+# Lopata ma velku vyhodu, ze nidkaj nedostane fuckup
 =======
 
